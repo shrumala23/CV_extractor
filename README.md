@@ -1,4 +1,5 @@
 - pull this repository
+- download and install *Xpdf CLI* from ``https://www.xpdfreader.com/download.html``
 - run ``npm i``
 - run ``npm run dev``
 - open ``http://localhost:3000/``inside browser
