@@ -1,0 +1,4 @@
+- pull this repository
+- run ``npm i``
+- run ``npm run dev``
+- open ``http://localhost:3000/``inside browser
